@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- my BOJ ... Gold 🏅
 [![Solved.ac Pfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwoong1733)](https://solved.ac/jjwoong1733)
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=JavaScript&logoColor=white"/>
