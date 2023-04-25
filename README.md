@@ -1,6 +1,6 @@
-### Hello World! 👋
+### Hello Git! 👋
 
-- my BOJ ... Gold 🏅
+- my BOJ Tier ... Gold 🏅
 
 [![Solved.ac Pfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwoong1733)](https://solved.ac/jjwoong1733)
 
