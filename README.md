@@ -1,5 +1,7 @@
 ### Hello Git! 👋
 
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${Hello GitHub! 👋}&fontSize=${50}&animation=${twinkling})
+
 - my BOJ Tier ... Gold 🏅
 
 [![Solved.ac Pfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjwoong1733)](https://solved.ac/jjwoong1733)
