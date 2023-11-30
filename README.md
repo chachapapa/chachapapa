@@ -2,10 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JAEWOONG%20JEONG%20👋&fontSize=50" />
 
 # Front-End Developer 정재웅입니다.
-#### 👍 항상 새로운 도전을 즐깁니다.
-#### 👍 유저의 입장에서 서비스를 이용할 이유를 고민합니다.
-#### 👍 건전하고 솔직한 피드백을 바탕으로 서비스를 완벽하게 만들어나가고자 합니다.
-***
+#### 👍 어떤 상황에서도 버그 없이 작동하도록 완벽한 예외 처리를 바탕으로 서비스를 만들고자 합니다.
+#### 👍 언제든 즉각적인 수정이 가능하도록 가독성이 뛰어난 깨끗한 코드 지향합니다. 
+#### 👍 건전하고 솔직한 피드백을 바탕으로 서비스를 완벽하게 만들고자 합니다.
 
 # 🧑‍💻Projects
 ### [1. 그루그루](https://github.com/jeongwonchogwa/groogroo) (2023.10.09~2023.11.17)
